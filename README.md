@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi there, I'm Hedayatullah
+🧠 About Me
 
-<!--
-**Khpalwak12/Khpalwak12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Full Stack Software Engineer who enjoys solving complex problems and building scalable, high-quality applications.
+I am always eager to learn new technologies, improve my skills, and contribute to meaningful projects.
 
-Here are some ideas to get you started:
+🚀 Currently working with Laravel & React
+📦 Building modern web applications
+🤝 Open to collaboration on interesting projects
+⚡ Interested in clean architecture & scalable systems
+🌐 Socials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+🛠 Tech Stack
+https://img.shields.io/badge/Java-8A2BE2
+📊 GitHub Stats
+📈 Most Used Languages
+💬 Random Dev Quote
+🔥 Fun Fact
+
+💡 “There is no programming language, no matter how structured, that will prevent programmers from making bad programs.”
+
+⭐️ From YOUR_USERNAME
