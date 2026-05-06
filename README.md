@@ -15,7 +15,7 @@ I am always eager to learn new technologies, improve my skills, and contribute t
 
 
 🛠 Tech Stack
-https://img.shields.io/badge/Java-8A2BE2
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 📊 GitHub Stats
 📈 Most Used Languages
 💬 Random Dev Quote
