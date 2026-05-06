@@ -1,3 +1,6 @@
+# 💫 About Me:
+I'm a passionate Senior Software Engineer who thrives on solving complex problems and building scalable, high-quality applications.<br>I’m always seeking new challenges and opportunities to grow, innovate, and contribute to impactful projects.<br><br>🔭 Currently building and maintaining Open Source packages<br><br>👯 Open to collaborating on Open Source projects<br><br>💡 Interested in clean architecture, scalable systems, and DevOps practices
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hedayatullah Khpalwak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hedayatullahkhpalwak17@gmail.com) 
