@@ -1,5 +1,4 @@
-👋 Hi there, I'm Hedayatullah
-🧠 About Me
+💫 About Me:
 
 I am a passionate Full Stack Software Engineer who enjoys solving complex problems and building scalable, high-quality applications.
 I am always eager to learn new technologies, improve my skills, and contribute to meaningful projects.
